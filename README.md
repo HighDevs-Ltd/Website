@@ -15,7 +15,7 @@ To get started, follow these steps:
 
 Clone the repository to your local machine
 
-    ` git clone https://github.com/HighDevs-Ltd/Website.git `
+    ` git clone ` https://github.com/HighDevs-Ltd/Website.git
 
 Navigate to the project directory in your terminal
 Run npm install or yarn to install dependencies
