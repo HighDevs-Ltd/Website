@@ -72,11 +72,15 @@ The project structure is as follows:
 
 If you would like to contribute to this project, follow these steps:
 
-[*] Fork this repository
-[*] Create a new branch
-[*] Make your changes
-[*] Commit and push your changes
-[*] Create a pull request
+* Fork this repository
+
+* Create a new branch
+
+* Make your changes
+
+* Commit and push your changes
+
+* Create a pull request
 
 
 
