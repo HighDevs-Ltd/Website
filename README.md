@@ -32,24 +32,26 @@ Open your browser and go to http://localhost:3000
 
 The project structure is as follows:
 ```
-    my-agency-website/
     ├── components/
     │   ├── Footer.jsx
+    |   ├── Navbar.jsx
     │   ├── Header.jsx
     │   └── Layout.jsx
     ├── pages/
     │   ├── about.jsx
     │   ├── index.jsx
     │   └── services.jsx
-    ├── public/
-    │   ├── favicon.ico
-    │   └── vercel.svg
+    ├── server/
+    │   ├── .gitignore
+    │   └── index.js
     ├── styles/
     │   ├── globals.css
     │   └── tailwind.css
     ├── .gitignore
-    ├── next.config.js
+    ├── package-lock.json
     ├── package.json
+    ├── tailwind.config.js
     ├── README.md
-    └── yarn.lock
+    └── postcss.config.js
+
 ```
