@@ -55,3 +55,28 @@ The project structure is as follows:
     └── postcss.config.js
 
 ```
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Heroku](https://www.heroku.com/)
+- [Vercel](https://vercel.com/)
+
+
+## Contribution 
+
+If you would like to contribute to this project, follow these steps:
+
+[*] Fork this repository
+[*] Create a new branch
+[*] Make your changes
+[*] Commit and push your changes
+[*] Create a pull request
+
+
+
